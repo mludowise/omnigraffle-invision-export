@@ -3,7 +3,7 @@
 Export your Omnigraffle document to PNG files using something similar to [InVision Symbols used in Photoshop](http://support.invisionapp.com/hc/en-us/articles/203730535-How-does-Photoshop-layer-syncing-work).
 
   - A “&” prefix on a layer within a canvas will export a copy of the canvas with and without the layer. This is useful for things like hover states or alternate states on the same screen.
-  - A “-” prefix on a canvas or a layer will hide it from the export. This is useful for annotation layers in your document.
+  - A “-” prefix on a canvas or a layer will exclude it from the export. This is useful for annotation layers in your document.
   - A “#” prefix on a layer will export that layer by itself with a transparent background. This should be used for [hover menus from multiple screens](http://support.invisionapp.com/hc/en-us/articles/203328329-How-can-I-).
   - Specify the export region of your canvases, allowing for your canvases to be larger than the protoype screen for annotations.
 

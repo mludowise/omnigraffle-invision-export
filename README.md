@@ -1,4 +1,4 @@
-# InVision Exporting AppleScript for Omnigraffle
+# InVision Symbols for Omnigraffle
 
 Uses Export your Omnigraffle document to PNG files using something similar to [InVision Symbols](http://support.invisionapp.com/hc/en-us/articles/203730535-How-does-Photoshop-layer-syncing-work).
 
